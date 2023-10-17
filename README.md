@@ -64,3 +64,6 @@ Men efter min hybridmetod sätt så var den ingen ändring så kansek jag må fi
 Dessutom, med tanke på mitt datahanteringsförmågor, kan jag också överväga att utforska tekniker inom djupinlärning och neurala nätverk. Dessa tekniker kan hjälpa till att extrahera komplexa mönster och relationer från data, vilket kan förbättra noggrannheten i mitt rekommendationer.
 
 Sammanfattningsvis har både mitt system och Spotify's RecSys-tillvägagångssätt sina styrkor och har visat bra resultat. Genom att fortsätta experimentera och integrera olika metoder kan jag ytterligare förbättra mitt rekommendationssystem och skapa en ännu bättre noggrannhet.
+
+# 4- Presentation (10p)
+Min video på youtube länk :https://www.youtube.com/watch?v=1r3us2SMhDw
